@@ -1,0 +1,8 @@
+Tiene una configuracion inicial distinta
+				  
+100				 80
+				  0
+	100			  0
+				100
+				  0
+00000000000000000000000000000000000
